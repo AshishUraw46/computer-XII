@@ -1,0 +1,55 @@
+1️⃣ Waterfall Model
+The Waterfall Model is a linear and sequential approach to software development, where each phase must be completed before moving on to the next. It's one of the earliest models used in SDLC.
+
+Major Activities:
+Requirement Analysis: Gather and document all system requirements.
+System Design: Design the architecture and components.
+Implementation: Code the system based on the design.
+Integration and Testing: Combine modules and perform system testing.
+Deployment: Deploy the system to users.
+Maintenance: Post-deployment support and updates.
+Pros:
+Simple & Structured: Clear, linear stages make it easy to understand.
+Easy to manage: Since each phase is completed before moving to the next, it's easy to track progress.
+Well-suited for small projects with well-understood requirements.
+Cons:
+Inflexible: Once a phase is completed, going back is difficult, which is problematic for projects with evolving requirements.
+Late Testing: Testing begins after development, making it harder to fix issues discovered later in the process.
+Assumes Requirements are Well-Defined: This model assumes that all requirements can be gathered upfront, which is often unrealistic.
+2️⃣ Agile Model
+The Agile Model is an iterative and incremental approach where software is developed in small, manageable units (iterations). It promotes collaboration, flexibility, and quick releases.
+
+Major Activities:
+Planning: Prioritize features, identify goals, and develop a project roadmap.
+Design & Development: Design and develop features in small, iterative cycles (sprints).
+Testing: Test features after each iteration to ensure quality.
+Release: Deploy the incremented software to the users at the end of each sprint.
+Review & Feedback: Collect feedback from stakeholders and refine features for the next sprint.
+Maintenance: Continuous improvement and bug fixes.
+Pros:
+Flexible & Adaptable: Can handle changes in requirements at any phase.
+Faster Delivery: Produces working software quickly with frequent releases.
+Continuous Feedback: Stakeholders are involved throughout, improving user satisfaction.
+Improved Risk Management: Iterations help to identify problems early on.
+Cons:
+Requires Skilled Team: The flexibility of Agile requires experienced and well-coordinated teams.
+Scope Creep: Continuous changes might lead to scope creep, which can affect timelines and budgets.
+Can be difficult to scale: Managing multiple teams in large projects might become complex.
+3️⃣ Prototyping Model
+The Prototyping Model involves creating a prototype (an early, working version of the system) to help visualize the system before full-scale development begins. It's an iterative process where user feedback helps refine the prototype.
+
+Major Activities:
+Requirement Gathering: Basic requirements are gathered, but they don’t need to be comprehensive.
+Build Prototype: Develop an early version of the system (prototype) that showcases core features.
+User Feedback: The prototype is provided to users to get feedback on its functionality and usability.
+Refinement: Based on feedback, the prototype is updated, and this cycle continues until the system meets user expectations.
+Final System Development: After finalizing the prototype, the actual system is developed based on the lessons learned.
+Testing: Thorough testing is done to ensure the final system works as intended.
+Pros:
+User Involvement: Users can interact with prototypes early and provide feedback, leading to a system that better meets their needs.
+Faster Initial Feedback: Immediate feedback can result in better alignment with user expectations.
+Helps Identify Requirements Early: As the prototype evolves, the requirements can become clearer.
+Cons:
+Prototype Might Be Misleading: The prototype can sometimes give users the wrong idea about the final system’s capabilities.
+Increased Time & Cost: Iterative changes to the prototype can delay the final system and increase development costs.
+Inadequate for Complex Systems: Prototyping works best for simpler systems, as complex systems might require more structured approaches.
